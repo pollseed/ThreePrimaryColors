@@ -1,4 +1,4 @@
-package com.example.shn.myapplication
+package com.pollseed.ThreePrimaryColors
 
 import android.graphics.Color
 import android.os.AsyncTask

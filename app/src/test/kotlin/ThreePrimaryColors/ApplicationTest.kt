@@ -1,4 +1,4 @@
-package com.example.shn.myapplication
+package com.pollseed.ThreePrimaryColors
 
 import android.app.Application
 import android.test.ApplicationTestCase
